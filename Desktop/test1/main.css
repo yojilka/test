@@ -1,0 +1,37 @@
+body {
+  background-image: url(https://cdn.britannica.com/s:700x500/61/189861-050-C8CB94CD/Caracol-archaeological-site-Mayan-Belize.jpg);
+}
+  .center {
+    text-align: center;
+  }
+
+#image {
+ width: 100%;
+    height: auto;
+    max-width: 625px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    
+  }
+  #tribute-link {
+    text-align: center;
+    font-size: 25px;
+  }
+
+  #img-caption {
+    font-family: 'Times New Roman', Times, serif;
+  }
+
+ p {
+   word-wrap: initial;
+ }
+ body {
+   text-align: center;
+ }
+
+ h1 {
+   font-family: sans-serif;
+   font-size: 60px;
+   font-weight: bold;
+ }
